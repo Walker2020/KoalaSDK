@@ -1,0 +1,6 @@
+framework module KoalaCoreSDK {
+  umbrella header "KoalaCoreSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

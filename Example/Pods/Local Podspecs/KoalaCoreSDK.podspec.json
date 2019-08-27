@@ -1,0 +1,22 @@
+{
+  "name": "KoalaCoreSDK",
+  "version": "0.1.0",
+  "summary": "A short description of KoalaCoreSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dengjinhui/KoalaCoreSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dengjinhui": "dengjinhui@taolx.com"
+  },
+  "source": {
+    "git": "https://github.com/dengjinhui/KoalaCoreSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KoalaCoreSDK/Classes/**/*"
+}

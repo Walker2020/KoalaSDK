@@ -1,0 +1,6 @@
+framework module Pods_KoalaCoreSDK_Example {
+  umbrella header "Pods-KoalaCoreSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
